@@ -14,6 +14,8 @@ Bienvenue dans le projet de calcul matriciel, une application conviviale qui com
 
 
 Pour accéder à l'interface utilisateur, [cliquez ici](https://ppywgxapdvurynzbbqi4dq.streamlit.app/).
+![image](https://github.com/Alicheffi/Matrix_Calculator/assets/118477243/5a608254-d372-4761-bd81-e96f502eeeca)
+
 
 ## Installation
 
