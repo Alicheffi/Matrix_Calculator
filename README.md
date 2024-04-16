@@ -15,9 +15,9 @@ Bienvenue dans le projet de calcul matriciel, une application conviviale qui com
 
 Pour accéder à l'interface utilisateur, [cliquez ici](https://ppywgxapdvurynzbbqi4dq.streamlit.app/).
 
-![Capture d’écran 2024-03-05 003154](https://github.com/Aminemnejja/Front/assets/101280583/45a898cd-d737-4f8f-93c5-d02118380bbc)
+![Capture d’écran 2024-03-05 003154](https://github.com/Alicheffi/Matrix_Calculator/assets/101280583/45a898cd-d737-4f8f-93c5-d02118380bbc)
 
-![image](https://github.com/Aminemnejja/Front/assets/101280583/269e76fc-c4ad-4eed-8b7d-45ec1789887e)
+![image](https://github.com/Alicheffi/Matrix_Calculator/assets/101280583/269e76fc-c4ad-4eed-8b7d-45ec1789887e)
 
 ## Installation
 
@@ -26,8 +26,8 @@ Assurez-vous d'avoir Python installé sur votre machine avant d'exécuter ces co
 N'hésitez pas à explorer les différents dossiers et fichiers pour découvrir les fonctionnalités et les algorithmes matriciels proposés.
 
 ```bash
-git clone https://github.com/Aminemnejja/Front
-cd Front
+git clone https://github.com/Alicheffi/Matrix_Calculator
+cd Matrix_Calculator
 pip install -r requirements.txt
 streamlit run menu.py
 
